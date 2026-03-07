@@ -1,4 +1,4 @@
-# Battery Energy Storage System (BESS) – Business Case Study
+# 🔋 Battery Energy Storage System (BESS) – Business Case Study
 
 ## Overview
 This repository contains the complete business case study analysis for implementing a Battery Energy Storage System (BESS) for a small city facing power fluctuations and high peak electricity costs.
@@ -10,6 +10,67 @@ The objective of this study is to analyze financial feasibility, operational ben
 - Problem Statement: PS-62
 - Topic: Battery Energy Storage System (BESS)
 - Investment Considered: ₹1 Crore
+
+
+## 📄 Case Study Report
+
+Click below to view the full report:
+
+👉 [Download Business Case Study Report](./Business_CaseStudy_PS62_RaginiSingh.pdf)
+
+---
+
+## 📊 Excel Financial Analysis
+
+The Excel sheet contains financial calculations including:
+
+- Peak electricity cost analysis
+- Maintenance cost savings
+- Payback period calculation
+- Graphical visualization
+
+👉 [Open Excel Financial Analysis](./BESS_Financial_Analysis_PS62_RaginiSingh.xlsx)
+
+---
+
+## 📈 Graph Analysis
+
+### Cost vs Savings Analysis
+
+![Cost vs Savings](./Cost_vs_Savings_Graph.png)
+
+---
+
+### Investment Recovery Over 5 Years
+
+![Investment Recovery](./Investment_Recovery_Graph.png)
+
+---
+
+## 📊 Financial Summary
+
+| Parameter | Value |
+|-----------|------|
+| Annual Savings | ₹24,00,000 |
+| Initial Investment | ₹1,00,00,000 |
+| Payback Period | ~4.16 Years |
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Excel
+- Microsoft Word
+- Data Visualization (Charts)
+
+---
+
+
+## 🔗 Repository Link
+
+You can access this repository here:
+
+👉 https://github.com/RaginiSingh2024/Battery-Energy-Storage-Business-CaseStudy
 
 ## Financial Analysis
 The analysis estimates annual savings by reducing peak-time electricity costs and maintenance costs.
@@ -73,8 +134,12 @@ excel-analysis
 financial-analysis
 data-visualization
 
-## Author
-Ragini Singh
-B.Tech CSE 
+## 👩‍💻 Author
+
+**Ragini Singh**  
+B.Tech CSE  
+Business Studies Case Study – PS62
+
+---
 
 
