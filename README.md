@@ -23,6 +23,15 @@ This repository contains the complete business case study analysis for implement
 
 The objective of this study is to analyze financial feasibility, operational benefits, and long-term sustainability of investing in a battery energy storage system.
 
+## Project Visualization
+
+### Cost vs Savings Analysis
+
+![Cost vs Savings](Cost_vs_Savings_Graph.png)
+
+### Investment Recovery Over 5 Years
+
+![Investment Recovery](Investment_Recovery_Graph.png)
 
 
 ## Problem Statement
@@ -118,6 +127,18 @@ The Excel sheet contains financial calculations including:
 
 ---
 
+## Business Impact
+
+The implementation of a Battery Energy Storage System (BESS) can significantly improve grid reliability by stabilizing power supply during peak demand periods.
+
+Key benefits include:
+
+• Reduced peak electricity costs  
+• Improved energy efficiency  
+• Better utilization of renewable energy  
+• Increased grid stability
+
+
 
 ## 🔗 Repository Link
 
@@ -165,6 +186,14 @@ Includes:
 - Microsoft Word
 - Data Visualization using Charts
 
+  ### Topics
+business-case-study
+energy-storage
+excel-analysis
+financial-analysis
+data-visualization
+
+
 ## 📁 Repository Structure
 
 ```
@@ -180,12 +209,19 @@ BESS-Business-CaseStudy-PS62/
 └── 📘 README.md
 ```
 
-### Topics
-business-case-study
-energy-storage
-excel-analysis
-financial-analysis
-data-visualization
+
+## 🔗 Project Repository
+
+View the complete project here:
+
+👉 https://github.com/YOUR-USERNAME/BESS-Business-CaseStudy-PS62
+
+## Conclusion
+
+Based on the financial analysis and projected savings, the investment of ₹1 Crore in a Battery Energy Storage System is financially feasible.
+
+The estimated payback period of approximately 4.16 years indicates that the project can provide long-term economic and operational benefits for the city.
+
 
 ## 👩‍💻 Author
 
