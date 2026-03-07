@@ -23,6 +23,47 @@ This repository contains the complete business case study analysis for implement
 
 The objective of this study is to analyze financial feasibility, operational benefits, and long-term sustainability of investing in a battery energy storage system.
 
+## Problem Statement
+
+PowerStore Solutions plans to implement a Battery Energy Storage System (BESS) to manage peak electricity demand and store renewable energy. The city currently faces frequent power fluctuations and high peak-time electricity costs.
+
+The goal of this study is to analyze the financial feasibility and operational impact of investing ₹1 Crore in a battery storage infrastructure.
+
+## Objectives
+
+- Analyze electricity cost reduction using BESS
+- Estimate annual savings from peak cost reduction
+- Evaluate maintenance cost savings
+- Calculate payback period for the investment
+- Visualize financial insights using graphs
+
+
+  ## Financial Analysis
+
+The financial model estimates cost savings by reducing peak electricity usage and maintenance expenses.
+
+Key assumptions:
+
+- Annual Peak Electricity Cost: ₹40,00,000
+- Maintenance Cost: ₹10,00,000
+- Peak Cost Reduction: 50%
+- Maintenance Cost Reduction: 40%
+
+  ## Key Results
+
+| Parameter | Value |
+|----------|------|
+| Annual Savings | ₹24,00,000 |
+| Initial Investment | ₹1,00,00,000 |
+| Payback Period | ~4.16 Years |
+
+## Tools Used
+
+- Microsoft Excel
+- Microsoft Word
+- Data Visualization using Charts
+
+  
 ## Case Study Details
 - Subject: Business Studies
 - Problem Statement: PS-62
@@ -72,14 +113,6 @@ The Excel sheet contains financial calculations including:
 | Annual Savings | ₹24,00,000 |
 | Initial Investment | ₹1,00,00,000 |
 | Payback Period | ~4.16 Years |
-
----
-
-## 🛠 Tools Used
-
-- Microsoft Excel
-- Microsoft Word
-- Data Visualization (Charts)
 
 ---
 
