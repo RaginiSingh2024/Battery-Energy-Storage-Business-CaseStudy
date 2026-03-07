@@ -1,5 +1,23 @@
 # 🔋 Battery Energy Storage System (BESS) – Business Case Study
+---
 
+<p align="center">
+
+<a href="https://1drv.ms/w/c/843cce1f097d9ae9/IQCUaOPEalMBQKuFgi2c7a3bAQazJYK-QlqwTOmT49gyaxY?e=T6ebdi">
+<img src="https://img.shields.io/badge/View%20Case%20Study%20Report-PDF-blue?style=for-the-badge">
+</a>
+
+<a href="https://1drv.ms/x/c/843cce1f097d9ae9/IQBaAzoiLZGkRrGuZi2ZBR8xATFIxDoRYDgKXln_lYYVPDE?e=1wWcrn">
+<img src="https://img.shields.io/badge/Excel%20Financial%20Analysis-Spreadsheet-green?style=for-the-badge">
+</a>
+
+<a href="https://github.com/RaginiSingh2024/Battery-Energy-Storage-Business-CaseStudy">
+<img src="https://img.shields.io/badge/GitHub%20Repository-Project-black?style=for-the-badge">
+</a>
+
+</p>
+
+---
 ## Overview
 This repository contains the complete business case study analysis for implementing a Battery Energy Storage System (BESS) for a small city facing power fluctuations and high peak electricity costs.
 
