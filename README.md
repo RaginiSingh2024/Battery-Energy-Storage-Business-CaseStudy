@@ -140,12 +140,6 @@ Key benefits include:
 
 
 
-## 🔗 Repository Link
-
-View the complete project here:
-
-👉 https://github.com/RaginiSingh2024/Battery-Energy-Storage-Business-CaseStudy
-
 ## Financial Analysis
 The analysis estimates annual savings by reducing peak-time electricity costs and maintenance costs.
 
@@ -208,6 +202,12 @@ BESS-Business-CaseStudy-PS62/
 │
 └── 📘 README.md
 ```
+
+## 🔗 Repository Link
+
+View the complete project here:
+
+👉 https://github.com/RaginiSingh2024/Battery-Energy-Storage-Business-CaseStudy
 
 
 
