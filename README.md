@@ -51,15 +51,20 @@ Includes:
 - Microsoft Word
 - Data Visualization using Charts
 
-###  Repo Structure
-BESS-Business-CaseStudy-PS62
+## 📁 Repository Structure
+
+```
+BESS-Business-CaseStudy-PS62/
 │
-├── Business_CaseStudy_PS62_RaginiSingh.pdf
-├── BESS_Financial_Analysis_PS62_RaginiSingh.xlsx
-├── graphs
-│   ├── cost_vs_savings.png
-│   └── investment_recovery.png
-└── README.md
+├── 📄 Business_CaseStudy_PS62_RaginiSingh.pdf
+├── 📊 BESS_Financial_Analysis_PS62_RaginiSingh.xlsx
+│
+├── 📁 graphs/
+│   ├── 📈 cost_vs_savings.png
+│   └── 📉 investment_recovery.png
+│
+└── 📘 README.md
+```
 
 ### Topics
 business-case-study
