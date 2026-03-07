@@ -23,6 +23,8 @@ This repository contains the complete business case study analysis for implement
 
 The objective of this study is to analyze financial feasibility, operational benefits, and long-term sustainability of investing in a battery energy storage system.
 
+
+
 ## Problem Statement
 
 PowerStore Solutions plans to implement a Battery Energy Storage System (BESS) to manage peak electricity demand and store renewable energy. The city currently faces frequent power fluctuations and high peak-time electricity costs.
