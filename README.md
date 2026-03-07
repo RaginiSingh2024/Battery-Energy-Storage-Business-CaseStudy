@@ -142,7 +142,7 @@ Key benefits include:
 
 ## 🔗 Repository Link
 
-You can access this repository here:
+View the complete project here:
 
 👉 https://github.com/RaginiSingh2024/Battery-Energy-Storage-Business-CaseStudy
 
@@ -210,11 +210,6 @@ BESS-Business-CaseStudy-PS62/
 ```
 
 
-## 🔗 Project Repository
-
-View the complete project here:
-
-👉 https://github.com/YOUR-USERNAME/BESS-Business-CaseStudy-PS62
 
 ## Conclusion
 
