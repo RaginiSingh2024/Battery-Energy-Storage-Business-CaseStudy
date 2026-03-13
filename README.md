@@ -23,7 +23,7 @@
 
 - 📊 **Live Dashboard:** https://battery-energy-storage-business-casestudy-mcsyliewxxu3nwnhvopd.streamlit.app 
 - 📄 **Case Study Report:**  👉 [Download Business Case Study Report](./Business_CaseStudy_PS62_RaginiSingh.pdf)
-- 📈 **Excel Financial Analysis:** 👉 https://1drv.ms/x/c/843cce1f097d9ae9/IQBaAzoiLZGkRrGuZi2ZBR8xATFIxDoRYDgKXln_lYYVPDE?e=jQY8gn
+- 📈 **Excel Financial Analysis:** 👉 [Download Excel Financial Model](./BESS_Financial_Analysis_PS62_RaginiSingh.xlsx)
 - 📂 **Dataset Source:** https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption   
 - 💻 **GitHub Repository:** https://github.com/RaginiSingh2024/Battery-Energy-Storage-Business-CaseStudy  
 
