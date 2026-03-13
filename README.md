@@ -21,10 +21,10 @@
 
 ## 🔗 External Links
 
-- 📊 **Live Dashboard:** https://your-streamlit-dashboard-link.streamlit.app  
-- 📄 **Case Study Report:** https://1drv.ms/w/c/843cce1f097d9ae9/IQCUaOPEalMBQKuFgi2c7a3bAQazJYK-QlqwTOmT49gyaxY?e=T6ebdi  
-- 📈 **Excel Financial Analysis:** https://1drv.ms/x/c/843cce1f097d9ae9/IQBaAzoiLZGkRrGuZi2ZBR8xATFIxDoRYDgKXln_lYYVPDE?e=1wWcrn  
-- 📂 **Dataset Source:** https://www.kaggle.com/datasets/robikscube/hourly-energy-consption  
+- 📊 **Live Dashboard:** https://battery-energy-storage-business-casestudy-mcsyliewxxu3nwnhvopd.streamlit.app 
+- 📄 **Case Study Report:**  👉 [Download Business Case Study Report](./Business_CaseStudy_PS62_RaginiSingh.pdf)
+- 📈 **Excel Financial Analysis:** 👉 [Open Excel Financial Analysis](./BESS_Financial_Analysis_PS62_RaginiSingh.xlsx)
+- 📂 **Dataset Source:** https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption   
 - 💻 **GitHub Repository:** https://github.com/RaginiSingh2024/Battery-Energy-Storage-Business-CaseStudy  
 
 ---
