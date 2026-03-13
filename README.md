@@ -18,6 +18,17 @@
 </p>
 
 ---
+
+## 🔗 External Links
+
+- 📊 **Live Dashboard:** https://your-streamlit-dashboard-link.streamlit.app  
+- 📄 **Case Study Report:** https://1drv.ms/w/c/843cce1f097d9ae9/IQCUaOPEalMBQKuFgi2c7a3bAQazJYK-QlqwTOmT49gyaxY?e=T6ebdi  
+- 📈 **Excel Financial Analysis:** https://1drv.ms/x/c/843cce1f097d9ae9/IQBaAzoiLZGkRrGuZi2ZBR8xATFIxDoRYDgKXln_lYYVPDE?e=1wWcrn  
+- 📂 **Dataset Source:** https://www.kaggle.com/datasets/robikscube/hourly-energy-consption  
+- 💻 **GitHub Repository:** https://github.com/RaginiSingh2024/Battery-Energy-Storage-Business-CaseStudy  
+
+---
+
 ## Overview
 This repository contains the complete business case study analysis for implementing a Battery Energy Storage System (BESS) for a small city facing power fluctuations and high peak electricity costs.
 
