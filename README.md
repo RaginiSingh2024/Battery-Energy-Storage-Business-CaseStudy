@@ -1,6 +1,6 @@
 # 🔋 Battery Energy Storage System (BESS) – Business Case Study
 ---
-
+ 
 <p align="center">
 
 <a href="https://1drv.ms/w/c/843cce1f097d9ae9/IQCUaOPEalMBQKuFgi2c7a3bAQazJYK-QlqwTOmT49gyaxY?e=T6ebdi">
